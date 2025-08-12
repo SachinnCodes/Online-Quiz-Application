@@ -1,0 +1,16 @@
+{
+  "name": "online-quiz-application",
+  "version": "1.0.0",
+  "description": "A simple online quiz application built with HTML, CSS, and JavaScript.",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
